@@ -1,4 +1,3 @@
-# Data Science Portfolio
-This repository containing portfolio of data science projects completed by my team for academic, self learning and research. Presented in the form of iPython Notebooks.
+# Phishing Website Detection Based on Machine Learning Methods
 
-_Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
+Seven models are designed for the research to be trained and fitted to predict the type of given websites. The seven models are random forest classifier, logistic regression, linear SVC, K-Neighbor classifier, Gradient boosting, Decision tree classifier, and Ada-boosting.
